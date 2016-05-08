@@ -3,7 +3,7 @@
 Mobile app (Android) that uses GPS data to retrieve current weather and forecasts through JSON and Forecast.io RESTful API
 
 ## Download
-https://github.com/benkha/stormy/blob/master/app/app-release.apk
+https://github.com/benkha/stormy/blob/master/app/app-release.apk?raw=true
 
 ## Preview
 
